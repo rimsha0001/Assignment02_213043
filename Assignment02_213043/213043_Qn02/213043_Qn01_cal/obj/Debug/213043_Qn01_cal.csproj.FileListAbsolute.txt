@@ -1,0 +1,11 @@
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\bin\Debug\213043_Qn01_cal.exe.config
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\bin\Debug\213043_Qn01_cal.exe
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\bin\Debug\213043_Qn01_cal.pdb
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\213043_Qn01_cal.csproj.AssemblyReference.cache
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\213043_Qn01_cal.csproj.SuggestedBindingRedirects.cache
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\_213043_Qn01_cal.Form1.resources
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\_213043_Qn01_cal.Properties.Resources.resources
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\213043_Qn01_cal.csproj.GenerateResource.cache
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\213043_Qn01_cal.csproj.CoreCompileInputs.cache
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\213043_Qn01_cal.exe
+C:\Users\213043\source\repos\213043_Qn01_cal\213043_Qn01_cal\obj\Debug\213043_Qn01_cal.pdb
